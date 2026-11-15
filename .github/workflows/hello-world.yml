@@ -12,4 +12,4 @@ jobs:
 
     steps: # suite d’étapes à exécuter
       - name: Print Hello # nom de l’étape
-        run: echo "Bonjour depuis GitHub Actions !" # commande exécutée
+        run: echo "Bonjour depuis MASTER !" # commande exécutée
